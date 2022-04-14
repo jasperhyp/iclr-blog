@@ -4,7 +4,7 @@ tagline:             ''
 description:         'For short-term, peer-sourced tests of time, generalizations, specializations, reproductions, etc.!'
 url:                 https://iclr-blog-track.github.io
 baseurl:             ''
-paginate:            5
+paginate:            30
 permalink:           pretty
 
 # github
@@ -26,5 +26,5 @@ plugins:
 paginate_path: "/blog/:num"
 
 # Custom vars
-version:             ICLR Spring 2021
+version:             ICLR Spring 2022
 google_analytics_id: #UA-XXXX-Y
