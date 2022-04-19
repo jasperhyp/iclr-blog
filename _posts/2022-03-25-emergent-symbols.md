@@ -2,7 +2,7 @@
 layout: post
 title: Symbolic Binding in Neural Networks through Factorized Memory Systems
 tags: [symbolic, memory, neural, binding]
-authors: Ameya Daigavane, Ansh Khurana, Shweta Bhardwaj, Gaurav Aggarwal
+authors: Daigavane, Ameya; Khurana, Ansh; Bhardwaj, Shweta; Aggarwal, Gaurav
 excerpt: In this blog post, we describe the paper 'Emergent Symbols through Binding in External Memory', which introduces the Emergent Symbol Binding Network (ESBN), a recurrent neural network with an augmented factorized memory system, to solve several logical reasoning tasks. We describe the design choices of the ESBN in great detail to compare with other sequence models, and perform a qualitative validation of the generalization claims from the original paper.
 ---
 
@@ -219,11 +219,11 @@ $$
 \begin{aligned}
 k_{w_t} &= \text{ReLU}(\text{Linear}(h_t)) \\
 g_t &= \sigma(\text{Linear}(h_t)) \\
-y_t &= \sigma_F(\text{Linear}(h_t)) \\
+y_t &= \sigma_{\text{pred}}(\text{Linear}(h_t)) \\
 \end{aligned}
 $$
 
-where $\sigma_F$ is either the sigmoid activation or the softmax activation,
+where $\sigma_{\text{pred}}$ is either the sigmoid activation or the softmax activation,
 depending on the number of options present.
 
 This key $k_{w_t}$ is now concatenated to the memory $M_k$:
