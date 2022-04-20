@@ -3,6 +3,7 @@ layout: post
 title: Example content (Basic Markdown)
 tags: [test, tutorial, markdown]
 authors: Doe, John, School of Life; Doe, Jane, A School
+hide: true
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title: Sample Submission
 authors: Bubeck, Sebastien (Microsoft); Dobre, David (Mila); Gauthier, Charlie (Mila); Gidel, Gauthier (Mila); Vernade, Claire (DeepMind)
 tags: [sample, template, tutorial]  # This should be the relevant areas related to your blog post
+hide: true
 ---
 
 This post outlines a few more things you may need to know for creating and configuring your blog posts.
