@@ -231,7 +231,7 @@ GitHub.
     <a style="background-image: url('{{site.url}}/public/images/organizers/cv.jpg');"></a>
     <div class="details">
       <h3>Claire Vernade</h3>
-      <p class="image-author">&nbsp;</p>
+      <p class="image-author">vernade [ at ] deepmind.com</p>
     </div>
   </li>
 </ul>
