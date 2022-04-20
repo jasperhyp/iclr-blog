@@ -13,6 +13,11 @@ authors: Bubeck, Sebastien (Microsoft); Dobre, David (Mila); Gauthier, Charlie (
 ## Important Information
 
 - The track has concluded and accepted blogposts are viewable [here]({{ site.url }}/blog)!
+- We've released a video talking about this track in more detail
+
+We would like to thank everyone who took part in this experiment for making it a success!
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/pDgvYpRfiJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
 ## Accepted Posts
