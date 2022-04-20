@@ -706,3 +706,12 @@ in great detail, compared its design choices to strong baselines,
 and performed a qualitative validation of the generalization claims
 from the original paper. We believe the community will benefit
 from the clear exposition of the valuable ideas in this paper.
+
+## Contributions Statement
+
+Ameya Daigavane and Ansh Khurana contributed equally to the creation of this blog post.
+Ameya wrote most of the blog post and helped improve the animation
+of the ESBN model that Ansh initially created.
+Ansh trained the models and generated all of the interactive visualizations in this blog post.
+Shweta Bharadwaj and Gaurav Aggarwal helped brainstorm
+the overall structure and high-level content of the blog post.
