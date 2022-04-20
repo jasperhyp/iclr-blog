@@ -2,7 +2,7 @@
  layout: post
  title: The Annotated S4
  authors: Rush, Alexander; Karamcheti, Sidd
- tags: [recent, sequence-modeling, generative-models]
+ tags: [transformer, sequence-modeling, generative-models]
  excerpt: "A guide to the S4 model from 'Efficiently Modeling Long Sequences with Structured State Spaces' annotated in a literate coding style as a working system."
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Dyadic Fairness: Exploring and Mitigating Bias in Graph Connections"
-tags: [graphs, fairness, representation learning]  # This should be the relevant areas related to your blog post
+tags: [graphs, fairness, representation-learning]  # This should be the relevant areas related to your blog post
 authors: Subramonian, Arjun
 ---
 

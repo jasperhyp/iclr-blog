@@ -2,7 +2,7 @@
 layout: post
 title: A Deeper Look at Zero-Cost Proxies for Lightweight NAS  
 authors: White, Colin; Khodak, Mikhail; Tu, Renbo; Shah, Shital; Bubeck, Sébastien; Dey, Debadeepta
-tags: [deep learning, automated machine learning, neural architecture search, zero-cost proxies]  # This should be the relevant areas related to your blog post
+tags: [deep-learning, automated-machine-learning, architecture-search] #, zero-cost proxies]  # This should be the relevant areas related to your blog post
 ---
 
 Imagine you have a brand new dataset, and you are trying to find a neural network that achieves high validation accuracy on this dataset. You choose a neural network, but after 3 hours of training, you find that the validation accuracy is only 85%. After more choices of neural networks --- and many GPU-hours --- you finally find one that has an accuracy of 93%. Is there an even better neural network? And can this whole process become faster?

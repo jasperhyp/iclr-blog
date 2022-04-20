@@ -2,7 +2,7 @@
 layout: post
 title: An Understanding of Learning from Demonstrations for Neural Text Generation
 authors: Kantharaju, Pavan, Smart Information Flow Technologies; Sankar, Aiswarya, Independent
-tags: [Text Generation, Reinforcement Learning, Learning from Demonstration]  # This should be the relevant areas related to your blog post
+tags: [natural-language-generation, reinforcement-learning, generative-models] #Learning from Demonstration]  # This should be the relevant areas related to your blog post
 ---
 
 In this blog post, we will go over the [ICLR 2021 paper titled *Text Generation by Learning from Demonstration*](https://arxiv.org/pdf/2009.07839.pdf). This paper introduces a learning method based on offline, off-policy reinforcement learning (RL) which addresses two key limitations of a training objective used in neural text generation models: Maximum Likelihood Estimate (MLE).
