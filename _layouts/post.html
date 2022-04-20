@@ -62,25 +62,6 @@ ${academicLFI}, "${titleText}", ICLR Blog Track, 2022.
 
 </script>
 
-{% if site.related_posts.size >= 1 %}
-<div class="related">
-  <h2>Related posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }} | {% for tag in page.tags %}
-    <a class="content-tag" href="/tags/#{{ tag | slugify }}"> {{ tag }} </a>
-  {% endfor %}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
 
 <!---
 <script src="https://utteranc.es/client.js"
