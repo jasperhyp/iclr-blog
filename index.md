@@ -15,18 +15,23 @@ authors: Bubeck, Sebastien (Microsoft); Dobre, David (Mila); Gauthier, Charlie (
 - The track has concluded and accepted blogposts are viewable [here]({{ site.url }}/blog)!
 - We've released a video talking about this track in more detail
 
-We would like to thank everyone who took part in this experiment for making it a success!
+We would like to thank everyone who took part in this experiment and for making it a success!
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/pDgvYpRfiJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
+## Contents
+
+- [Accepted Posts](#accepted-posts)
+- [Motivation](#motivation)
+- [Submissions](#submissions)
+- [Organizers](#organizers)
 
 ## Accepted Posts
-
 
 **[An Understanding of Learning from Demonstrations for Neural Text Generation]({% post_url 2022-03-25-text-gen-via-lfd %})**
 : _Kantharaju, Pavan, Smart Information Flow Technologies; Sankar, Aiswarya, Independent_
 
-**[Auction Learning as a Two Player Game": GANs (?) for Mechanism Design]({% post_url 2022-03-25-two-player-auction-learning %})**
+**[Auction Learning as a Two Player Game: GANs (?) for Mechanism Design]({% post_url 2022-03-25-two-player-auction-learning %})**
 : _Curry, Michael J., University of Maryland; Reusche, Daniel_
 
 **[Deep Neural Nets: 33 years ago and 33 years from now (Invited Post)]({% post_url 2022-03-26-lecun1989 %})**
@@ -86,17 +91,8 @@ We would like to thank everyone who took part in this experiment for making it a
 **[Understanding Few-Shot Multi-Task Representation Learning Theory]({% post_url 2022-03-25-understanding_mtr_meta %})**
 : _Bouniot, Quentin; Redko, Ievgen_
 
-<!-- ---
 
-- <h2><a href="about">About</a></h2>
-- <h2><a href="blog">ICLR Blog Posts</a></h2>
-- <h2><a href="submitting">Submitting</a></h2>
-
---- -->
-
-<!-- # Motivation -->
-
-# Motivation
+## Motivation
 
 The Machine Learning community is currently experiencing a
 [reproducibility crisis](https://neuripsconf.medium.com/designing-the-reproducibility-program-for-neurips-2020-7fcccaa5c6ad)
@@ -130,9 +126,9 @@ to expect a significant portion of the machine learning community to
 contribute to such an initiative when everyone is trying to establish
 themselves through publications.
 
-You can read more on our [about]({% link about.md %}) page.
+> You can read more on our [about]({% link about.md %}) page.
 
-## A Blog Post Conference Track
+### A Blog Post Conference Track
 
 Our goal is to create a formal call for blog posts at ICLR to
 incentivize and reward researchers to review past work and summarize the
@@ -177,6 +173,8 @@ The format and process for this blog post track is as follows:
 
 ## Submissions
 
+**Note: The track has concluded and we are not accepting any more submissions!**
+
 Our goal is to avoid heavily engineered, professionally-made
 blog-posts---Such as the “100+ hours” mentioned as a standard by the [Distill
   guidelines](https://distill.pub/journal/)---to entice ideas and clear writing rather than dynamic
@@ -192,10 +190,55 @@ without much effort for offline reading or archival purposes. More
 importantly, this format can be easily hosted and maintained through
 GitHub.
 
-Please checkout the <a href="submitting">submitting</a> section for a detailed overview on the
-process of creating and submitting a blog post.
+> Please checkout the <a href="submitting">submitting</a> section for a detailed overview on the 
+> process of creating and submitting a blog post.
 
-# References
+
+## Organizers
+
+&nbsp;
+
+<ul class="image-list-small">
+  <li>
+    <a style="background-image: url({{site.url}}/public/images/organizers/gg.jpg);"></a>
+    <div class="details">
+      <h3>Gauthier Gidel</h3>
+      <p class="image-author">gidelgau [ at ] mila.quebec</p>
+    </div>
+  </li>
+  <li>
+    <a style="background-image: url({{site.url}}/public/images/organizers/cg.jpg);"></a>
+    <div class="details">
+      <h3>Charlier Gauthier</h3>
+      <p class="image-author">charlie.gauthier [ at ] umontreal.ca</p>
+    </div>
+  </li>
+  <li>
+    <a style="background-image: url({{site.url}}/public/images/organizers/dd.jpg);"></a>
+    <div class="details">
+      <h3>David Dobre</h3>
+      <p class="image-author">david-a.dobre [ at ] mila.quebec</p>
+    </div>
+  </li>
+  <li>
+    <a style="background-image: url('{{site.url}}/public/images/organizers/sb.jpg');"></a>
+    <div class="details">
+      <h3>Sébastien Bubeck</h3>
+      <p class="image-author">sebubeck [ at ] microsoft.com</p>
+    </div>
+  </li>
+  <li>
+    <a style="background-image: url('{{site.url}}/public/images/organizers/cv.jpg');"></a>
+    <div class="details">
+      <h3>Claire Vernade</h3>
+      <p class="image-author">&nbsp;</p>
+    </div>
+  </li>
+</ul>
+
+---
+
+## References
 
 <a name="Litt">Michael L Littman. Collusion rings threaten the integrity of computer science research. Communications of the ACM, 2021.</a>
 
