@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning to Coarsen Graphs with Graph Neural Networks
-tags: [relational learning, graph convolutions, graph theory]
+tags: [graphs, relational-learning, graph-convolutions]
 authors: Suri, Karush
 ---
 

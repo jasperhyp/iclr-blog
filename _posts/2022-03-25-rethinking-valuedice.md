@@ -2,7 +2,7 @@
 layout: post
 title: Rethinking ValueDice - Does It Really Improve Performance?
 authors: Ziniu, Li, CUHKSZ; Tian, Xu, NJU; Yang, Yu, NJU; Zhi-Quan, Luo, CUHKSZ
-tags: [reinforcement learning, imitation learning, ValueDice, adversarial learning]
+tags: [reinforcement-learning, imitation-learning, adversarial-learning]
 ---
 
 This post rethinks the ValueDice algorithm introduced in the following ICLR publication. We promote several new conclusions and perhaps some of them can provide new insights.

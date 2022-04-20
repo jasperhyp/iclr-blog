@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Normalization is dead, long live normalization!
-tags: [normalization, initialization, propagation, skip connections, residual networks]
+tags: [normalization, skip-connections, residual-networks, deep-learning]
 authors: Hoedt, Pieter-Jan; Hochreiter, Sepp; Klambauer, Günter
 ---
 

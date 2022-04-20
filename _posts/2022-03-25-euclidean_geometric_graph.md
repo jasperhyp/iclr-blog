@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Euclidean geometry meets graph, a geometric deep learning perspective
-tags: [graph neural network, geometric deep learning]
+tags: [graphs, geometric-deep-learning]
 authors: Wang, Zichen, Amazon Web Services; Shi, Yunzhi, Amazon Web Services; Chen, Xin, Amazon Web Services
 ---
 
