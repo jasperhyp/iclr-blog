@@ -1,4 +1,4 @@
-BLOG_PATH 	= $(shell pwd)
+BLOG_PATH 	= ${PWD}
 IMAGE 		= velythyl/jekyll-ghp
 TAG 		= latest
 PORT 		= 4000
