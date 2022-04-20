@@ -62,25 +62,6 @@ ${academicLFI}, "${titleText}", ICLR Blog Track, 2022.
 
 </script>
 
-{% if site.related_posts.size >= 1 %}
-<div class="related">
-  <h2>Related posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }} | {% for tag in page.tags %}
-    <a class="content-tag" href="/tags/#{{ tag | slugify }}"> {{ tag }} </a>
-  {% endfor %}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-{% endif %}
 
 <!---
 <script src="https://utteranc.es/client.js"
@@ -93,7 +74,7 @@ ${academicLFI}, "${titleText}", ICLR Blog Track, 2022.
 </script>
 --->
 
-<div style="font-weight: bold;"> Before commenting, don't forget to log into Github (at the bottom of the page)! Otherwise you won't be able to. To edit or delete your comment, visit the <a href="https://github.com/iclr-blog-track/iclr-blog-track.github.io/discussions">discussions page</a> and look for your comment in the right discussion.</div>
+<div style="font-weight: bold; font-size: 14pt"> You will need to sign in to GitHub to add a comment! To edit or delete your comment, visit the <a href="https://github.com/iclr-blog-track/iclr-blog-track.github.io/discussions">discussions page</a> and look for your comment in the right discussion.</div>
 
 <script src="https://giscus.app/client.js"
         data-repo="iclr-blog-track/iclr-blog-track.github.io"

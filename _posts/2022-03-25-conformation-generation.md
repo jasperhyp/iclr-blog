@@ -2,7 +2,7 @@
 layout: post
 title: Generating Molecular Conformations via Normalizing Flows and Neural ODEs
 authors: Mukundh Murthy, Nikhil Devraj
-tags: [cheminformatics, drug discovery, generative modeling]  # This should be the relevant areas related to your blog post
+tags: [cheminformatics, drug-discovery, generative-models]  # This should be the relevant areas related to your blog post
 ---
 In this post, we provide an in-depth overview of methods outlined in the paper "Learning Neural Generative Dynamics for Molecular Conformation Generation," discuss the impact of the work in the context of other conformation generation approaches, and additionally discuss future potential applications to improve the diversity and stability of generated conformations.
 

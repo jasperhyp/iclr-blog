@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recent Advances in Deep Learning for Routing Problems
-tags: [deep-learning, graph-neural-networks, combinatorial-optimization, travelling-salesperson-problem]
+tags: [graphs, deep-learning, combinatorial-optimization, travelling-salesperson-problem]
 authors: Joshi, Chaitanya K.; Anand, Rishabh
 ---
 

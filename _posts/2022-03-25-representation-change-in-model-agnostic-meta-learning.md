@@ -2,7 +2,7 @@
 layout: post
 title: Representation Change in Model-Agnostic Meta-Learning
 authors: Goerttler, Thomas (TU Berlin); Müller, Luis (TU Berlin); Obermayer, Klaus (TU Berlin)
-tags: [meta-learning, maml, representation change, representation reuse, domain adaptation, cross-domain]  # This should be the relevant areas related to your blog post
+tags: [meta-learning, representation-learning, domain-adaptation, cross-domain]  # This should be the relevant areas related to your blog post
 ---
 
 

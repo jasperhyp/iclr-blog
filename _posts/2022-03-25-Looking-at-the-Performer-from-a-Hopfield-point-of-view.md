@@ -2,7 +2,7 @@
 layout: post
 title: Looking at the Performer from a Hopfield Point of View
 authors: Brandstetter J. and Ramsauer H. and Holzleitner M. and Hochreiter S. and Schäfl B.
-tags: [deep learning, hopfield networks, associative memory, attention, transformer]
+tags: [deep-learning, hopfield-networks, associative-memory, attention, transformer]
 usemathjax: true
 ---
 

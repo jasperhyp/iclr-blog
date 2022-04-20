@@ -2,7 +2,7 @@
 layout: post
 title: Discovering Non-Monotonic Autoregressive Ordering for Text Generation Models using Sinkhorn Distributions
 authors: Kumar, Ashutosh
-tags: [autoregressive, non-monotonic, NLG, text-generation, sinkhorn-distributions]
+tags: [autoregressive, non-monotonic, natural-language-generation, sinkhorn-distributions]
 ---
 
 Natural-Language-Generation (NLG) is a process for producing a sequence of natural language tokens. While the *input* to the NLG pipeline includes, but is not limited to, audio, video, image, structured documents, and natural language itself, the *output* is restricted to human readable texts.

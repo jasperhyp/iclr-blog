@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 37 Implementation Details of Proximal Policy Optimization
-tags: [proximal-policy-optimization, reproducibility, reinforcement-learning, implementation-details, code-level-optimizations, tutorial]
+tags: [proximal-policy-optimization, reproducibility, reinforcement-learning, implementation-details, tutorial]
 authors: Huang, Shengyi; Dossa, Rousslan Fernand Julien; Raffin, Antonin; Kanervisto, Anssi; Wang, Weixun 
 ---
 
