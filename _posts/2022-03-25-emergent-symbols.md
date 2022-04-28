@@ -81,7 +81,7 @@ on 'raw' high-dimensional data such as audio and video,
 exemplified by the rise of deep learning. The promise of deep learning is to
 do function approximation in a high-dimensional space,
 enabling predictive models that can operate on 'raw' data.
-While deep learning models has led to pivotal breakthroughs
+While deep learning models have led to pivotal breakthroughs
 across multiple domains - computer vision, natural language processing, robotics, to name a few -
 the downside is that these models are effectively 'black boxes'
 with little insight into what exactly is being modelled.
