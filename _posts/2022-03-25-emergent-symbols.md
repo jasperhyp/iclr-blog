@@ -2,7 +2,7 @@
 layout: post
 title: Symbolic Binding in Neural Networks through Factorized Memory Systems
 tags: [symbolic, memory, binding]
-authors: Ameya Daigavane, Ansh Khurana, Shweta Bhardwaj, Gaurav Aggarwal
+authors: Daigavane, Ameya; Khurana, Ansh; Bhardwaj, Shweta; Aggarwal, Gaurav
 excerpt: In this blog post, we describe the paper 'Emergent Symbols through Binding in External Memory', which introduces the Emergent Symbol Binding Network (ESBN), a recurrent neural network with an augmented factorized memory system, to solve several logical reasoning tasks. We describe the design choices of the ESBN in great detail to compare with other sequence models, and perform a qualitative validation of the generalization claims from the original paper.
 ---
 
@@ -81,7 +81,7 @@ on 'raw' high-dimensional data such as audio and video,
 exemplified by the rise of deep learning. The promise of deep learning is to
 do function approximation in a high-dimensional space,
 enabling predictive models that can operate on 'raw' data.
-While deep learning models has led to pivotal breakthroughs
+While deep learning models have led to pivotal breakthroughs
 across multiple domains - computer vision, natural language processing, robotics, to name a few -
 the downside is that these models are effectively 'black boxes'
 with little insight into what exactly is being modelled.
@@ -219,11 +219,11 @@ $$
 \begin{aligned}
 k_{w_t} &= \text{ReLU}(\text{Linear}(h_t)) \\
 g_t &= \sigma(\text{Linear}(h_t)) \\
-y_t &= \sigma_F(\text{Linear}(h_t)) \\
+y_t &= \sigma_{\text{pred}}(\text{Linear}(h_t)) \\
 \end{aligned}
 $$
 
-where $\sigma_F$ is either the sigmoid activation or the softmax activation,
+where $\sigma_{\text{pred}}$ is either the sigmoid activation or the softmax activation,
 depending on the number of options present.
 
 This key $k_{w_t}$ is now concatenated to the memory $M_k$:
@@ -706,3 +706,12 @@ in great detail, compared its design choices to strong baselines,
 and performed a qualitative validation of the generalization claims
 from the original paper. We believe the community will benefit
 from the clear exposition of the valuable ideas in this paper.
+
+## Contributions Statement
+
+Ameya Daigavane and Ansh Khurana contributed equally to the creation of this blog post.
+Ameya wrote most of the blog post and helped improve the animation
+of the ESBN model that Ansh initially created.
+Ansh trained the models and generated all of the interactive visualizations in this blog post.
+Shweta Bharadwaj and Gaurav Aggarwal helped brainstorm
+the overall structure and high-level content of the blog post.
