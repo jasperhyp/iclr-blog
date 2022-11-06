@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ICLR 2022 Blog Track (OLD)
+title: ICLR 2022 Blog Track
 tags: [proposal, call]
 authors: Bubeck, Sebastien (Microsoft); Dobre, David (Mila); Gauthier, Charlie (Mila); Gidel, Gauthier (Mila); Vernade, Claire (DeepMind)
 ---
@@ -190,7 +190,7 @@ without much effort for offline reading or archival purposes. More
 importantly, this format can be easily hosted and maintained through
 GitHub.
 
-> Please checkout the <a href="submitting">submitting</a> section for a detailed overview on the
+> Please checkout the <a href="submitting">submitting</a> section for a detailed overview on the 
 > process of creating and submitting a blog post.
 
 
