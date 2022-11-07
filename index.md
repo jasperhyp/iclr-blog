@@ -5,6 +5,11 @@ tags: [proposal, call]
 authors: Bubeck, Sebastien (Microsoft); Dobre, David (Mila); Gauthier, Charlie (Mila); Gidel, Gauthier (Mila); Vernade, Claire (DeepMind)
 ---
 
+<link rel="canonical" href="https://iclr-blogposts.github.io/2023/about">
+<script>
+    window.location.replace("https://iclr-blogposts.github.io/2023/about");
+</script>
+
 <br>
 <p align="center">
   <img src="{{ site.url }}/public/images/2021-09-01-sample-submission/ICLR-logo.png" width="50%" alt="ICLR Logo">
